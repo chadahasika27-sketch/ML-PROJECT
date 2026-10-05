@@ -1,0 +1,26 @@
+DATASET SOURCES
+
+Titanic:
+https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
+
+Adult Income:
+https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data
+Official UCI page:
+https://uci-ics-mlr-prod.aws.uci.edu/dataset/2/adult
+
+California Housing:
+Loaded through sklearn.datasets.fetch_california_housing()
+
+Auto MPG:
+https://archive.ics.uci.edu/ml/machine-learning-databases/auto-mpg/auto-mpg.data
+Official UCI page:
+https://uci-ics-mlr-prod.aws.uci.edu/dataset/9/auto+mpg
+
+Heart Disease:
+https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.cleveland.data
+
+Wine Quality:
+https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv
+
+Diabetes:
+sklearn.datasets.load_diabetes()
